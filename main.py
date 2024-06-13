@@ -4,7 +4,7 @@ import pandas as pd
 from backend import *
 import io
 
-st.set_page_config(page_title="CSB PROCESSOR",page_icon=":chart_with_upwards_trend:",layout="wide")
+st.set_page_config(page_title="CSB PROCESSOR",page_icon=":sauropod:",layout="wide")
 hide_streamlit_style = """
 <style>
 #MainMenu {visibility: hidden;}
